@@ -1,0 +1,6 @@
+{
+	"appId": "com.fidev.sociallogin",
+	"appName": "social-login",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
